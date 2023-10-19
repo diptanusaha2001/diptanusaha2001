@@ -12,11 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [https://dipsahatanu.wixsite.com/diptanu-saha](https://dipsahatanu.wixsite.com/diptanu-saha)
 
-- 📫 How to reach me **diptanusaha2001@gmail.com**
+- 📫 Reach me at **diptanusaha2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EuuDEywLt45hNB6lsP78UgQOEMKLO9oo/view?usp=sharing](https://drive.google.com/file/d/1EuuDEywLt45hNB6lsP78UgQOEMKLO9oo/view?usp=sharing)
+- 📄 Know about my experiences from [https://drive.google.com/file/d/1EuuDEywLt45hNB6lsP78UgQOEMKLO9oo/view?usp=sharing](https://drive.google.com/file/d/1EuuDEywLt45hNB6lsP78UgQOEMKLO9oo/view?usp=sharing)
 
-- ⚡ Hobbies **Listening Music, Cooking, Aviation Geek**
+- ⚡ My hobbies are **Listening Music, Cooking, Aviation Geek**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,4 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diptanusaha2001&show_icons=true&locale=en" alt="diptanusaha2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diptanusaha2001&" alt="diptanusaha2001" /></p>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/diptanusaha?theme=wtf)
