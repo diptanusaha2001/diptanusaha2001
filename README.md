@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diptanusaha2001&show_icons=true&locale=en" alt="diptanusaha2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diptanusaha2001&" alt="diptanusaha2001" /></p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/diptanusaha?theme=wtf)
