@@ -1,7 +1,8 @@
-<div align = "center"> <img src="https://github.com/diptanusaha2001/diptanusaha2001/blob/main/banner.jpeg"></div>
+[![MasterHead](https://github.com/diptanusaha2001/diptanusaha2001/blob/main/banner.jpeg)](https://diptanusaha2001.io)
+
 <h1 align="center">Hi 👋, I'm Diptanu Saha</h1>
 <h3 align="center">AI & ML Enthusiast | Data Analyst | Final Year B.Tech Undergraduate from VIT Bhopal</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align = "right" alt = "Coding" width = "500" src = "https://github.com/diptanusaha2001/diptanusaha2001/blob/main/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diptanusaha2001&label=Profile%20views&color=0e75b6&style=flat" alt="diptanusaha2001" /> </p>
 
